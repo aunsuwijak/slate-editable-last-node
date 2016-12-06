@@ -4,6 +4,7 @@
 A Slate plugin that guarantee that editable node will stick at the end of document.
 
 ![](./example/demo.gif)
+
 The initial state of document has void node at the bottom.
 
 ## Install
