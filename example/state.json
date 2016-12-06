@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "kind": "block",
+      "type": "paragraph",
+      "isVoid": false,
+      "nodes": [
+        {
+          "kind": "text",
+          "text": "Yeah!"
+        }
+      ]
+    },
+    {
+      "kind": "block",
+      "type": "image",
+      "isVoid": true
+    }
+  ]
+}
